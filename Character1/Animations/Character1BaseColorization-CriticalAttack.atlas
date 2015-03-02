@@ -1,0 +1,103 @@
+
+Character1BaseColorization-CriticalAttack.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Character1BaseColorization-CriticalAttack0
+  rotate: false
+  xy: 2, 2
+  size: 362, 456
+  orig: 362, 456
+  offset: 0, 0
+  index: -1
+Character1BaseColorization-CriticalAttack8
+  rotate: false
+  xy: 2, 2
+  size: 362, 456
+  orig: 362, 456
+  offset: 0, 0
+  index: -1
+
+Character1BaseColorization-CriticalAttack2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Character1BaseColorization-CriticalAttack1
+  rotate: false
+  xy: 2, 2
+  size: 362, 456
+  orig: 362, 456
+  offset: 0, 0
+  index: -1
+
+Character1BaseColorization-CriticalAttack3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Character1BaseColorization-CriticalAttack2
+  rotate: false
+  xy: 2, 2
+  size: 362, 456
+  orig: 362, 456
+  offset: 0, 0
+  index: -1
+
+Character1BaseColorization-CriticalAttack4.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Character1BaseColorization-CriticalAttack3
+  rotate: false
+  xy: 2, 2
+  size: 362, 456
+  orig: 362, 456
+  offset: 0, 0
+  index: -1
+
+Character1BaseColorization-CriticalAttack5.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Character1BaseColorization-CriticalAttack4
+  rotate: false
+  xy: 2, 2
+  size: 362, 456
+  orig: 362, 456
+  offset: 0, 0
+  index: -1
+
+Character1BaseColorization-CriticalAttack6.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Character1BaseColorization-CriticalAttack5
+  rotate: false
+  xy: 2, 2
+  size: 362, 456
+  orig: 362, 456
+  offset: 0, 0
+  index: -1
+
+Character1BaseColorization-CriticalAttack7.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Character1BaseColorization-CriticalAttack6
+  rotate: false
+  xy: 2, 2
+  size: 362, 456
+  orig: 362, 456
+  offset: 0, 0
+  index: -1
+
+Character1BaseColorization-CriticalAttack8.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Character1BaseColorization-CriticalAttack7
+  rotate: false
+  xy: 2, 2
+  size: 362, 456
+  orig: 362, 456
+  offset: 0, 0
+  index: -1

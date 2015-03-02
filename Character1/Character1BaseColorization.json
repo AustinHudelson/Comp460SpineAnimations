@@ -1,0 +1,40 @@
+{"skeleton":{"images":"images/"},
+"bones":[{"name":"root"}],
+"slots":[
+	{"name":"RightFoot","bone":"root","attachment":"RightFoot"},
+	{"name":"LeftFoot","bone":"root","attachment":"LeftFoot"},
+	{"name":"RightHand","bone":"root","attachment":"RightHand"},
+	{"name":"RightArm","bone":"root","attachment":"RightArm"},
+	{"name":"Right Leg","bone":"root","attachment":"Right Leg"},
+	{"name":"Left Leg","bone":"root","attachment":"Left Leg"},
+	{"name":"Body","bone":"root","attachment":"Body"},
+	{"name":"Belt","bone":"root","attachment":"Belt"},
+	{"name":"LeftHand","bone":"root","attachment":"LeftHand"},
+	{"name":"LeftArm","bone":"root","attachment":"LeftArm"},
+	{"name":"LeftShoulder","bone":"root","attachment":"LeftShoulder"},
+	{"name":"RightShoulder","bone":"root","attachment":"RightShoulder"},
+	{"name":"Head","bone":"root","attachment":"Head"},
+	{"name":"Shield","bone":"root","attachment":"Shield"},
+	{"name":"Sword","bone":"root","attachment":"Sword"}
+],
+"skins":{
+	"default":{
+		"Sword":{"Sword":{"x":158.5,"y":125.5,"width":209,"height":99}},
+		"Shield":{"Shield":{"x":166,"y":152,"width":128,"height":216}},
+		"Head":{"Head":{"x":104,"y":332,"width":182,"height":202}},
+		"RightShoulder":{"RightShoulder":{"x":156,"y":235,"width":92,"height":60}},
+		"LeftShoulder":{"LeftShoulder":{"x":65,"y":232,"width":90,"height":62}},
+		"LeftArm":{"LeftArm":{"x":59.5,"y":189,"width":63,"height":90}},
+		"LeftHand":{"LeftHand":{"x":56,"y":134.5,"width":70,"height":61}},
+		"Belt":{"Belt":{"x":109,"y":155.5,"width":120,"height":81}},
+		"Body":{"Body":{"x":107.5,"y":199,"width":117,"height":106}},
+		"Left Leg":{"Left Leg":{"x":84.5,"y":122.5,"width":71,"height":77}},
+		"Right Leg":{"Right Leg":{"x":133.5,"y":122.5,"width":71,"height":77}},
+		"RightArm":{"RightArm":{"x":157,"y":189,"width":64,"height":90}},
+		"RightHand":{"RightHand":{"x":161,"y":134.5,"width":70,"height":61}},
+		"LeftFoot":{"LeftFoot":{"x":112.5,"y":76.5,"width":131,"height":57}},
+		"RightFoot":{"RightFoot":{"x":139.5,"y":77.5,"width":87,"height":57}}
+	}
+},
+"animations":{"animation":{}}
+}

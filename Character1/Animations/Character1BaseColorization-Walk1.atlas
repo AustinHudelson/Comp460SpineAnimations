@@ -1,0 +1,127 @@
+
+Character1BaseColorization-Walk1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Character1BaseColorization-Walk10
+  rotate: false
+  xy: 2, 2
+  size: 313, 395
+  orig: 313, 395
+  offset: 0, 0
+  index: -1
+Character1BaseColorization-Walk110
+  rotate: false
+  xy: 2, 2
+  size: 313, 395
+  orig: 313, 395
+  offset: 0, 0
+  index: -1
+
+Character1BaseColorization-Walk12.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Character1BaseColorization-Walk11
+  rotate: false
+  xy: 2, 2
+  size: 313, 395
+  orig: 313, 395
+  offset: 0, 0
+  index: -1
+
+Character1BaseColorization-Walk13.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Character1BaseColorization-Walk12
+  rotate: false
+  xy: 2, 2
+  size: 313, 395
+  orig: 313, 395
+  offset: 0, 0
+  index: -1
+
+Character1BaseColorization-Walk14.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Character1BaseColorization-Walk13
+  rotate: false
+  xy: 2, 2
+  size: 313, 395
+  orig: 313, 395
+  offset: 0, 0
+  index: -1
+
+Character1BaseColorization-Walk15.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Character1BaseColorization-Walk14
+  rotate: false
+  xy: 2, 2
+  size: 313, 395
+  orig: 313, 395
+  offset: 0, 0
+  index: -1
+
+Character1BaseColorization-Walk16.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Character1BaseColorization-Walk15
+  rotate: false
+  xy: 2, 2
+  size: 313, 395
+  orig: 313, 395
+  offset: 0, 0
+  index: -1
+
+Character1BaseColorization-Walk17.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Character1BaseColorization-Walk16
+  rotate: false
+  xy: 2, 2
+  size: 313, 395
+  orig: 313, 395
+  offset: 0, 0
+  index: -1
+
+Character1BaseColorization-Walk18.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Character1BaseColorization-Walk17
+  rotate: false
+  xy: 2, 2
+  size: 313, 395
+  orig: 313, 395
+  offset: 0, 0
+  index: -1
+
+Character1BaseColorization-Walk19.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Character1BaseColorization-Walk18
+  rotate: false
+  xy: 2, 2
+  size: 313, 395
+  orig: 313, 395
+  offset: 0, 0
+  index: -1
+
+Character1BaseColorization-Walk110.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Character1BaseColorization-Walk19
+  rotate: false
+  xy: 2, 2
+  size: 313, 395
+  orig: 313, 395
+  offset: 0, 0
+  index: -1
